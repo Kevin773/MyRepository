@@ -1,0 +1,11 @@
+C:\Users\Kevin\Documents\Visual Basic Projects\VBU_Calculator\VBU_Calculator\bin\Debug\VBU_Calculator.exe.config
+C:\Users\Kevin\Documents\Visual Basic Projects\VBU_Calculator\VBU_Calculator\bin\Debug\VBU_Calculator.exe
+C:\Users\Kevin\Documents\Visual Basic Projects\VBU_Calculator\VBU_Calculator\bin\Debug\VBU_Calculator.pdb
+C:\Users\Kevin\Documents\Visual Basic Projects\VBU_Calculator\VBU_Calculator\bin\Debug\VBU_Calculator.xml
+C:\Users\Kevin\Documents\Visual Basic Projects\VBU_Calculator\VBU_Calculator\obj\Debug\VBU_Calculator.vbprojAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Basic Projects\VBU_Calculator\VBU_Calculator\obj\Debug\VBU_Calculator.Form1.resources
+C:\Users\Kevin\Documents\Visual Basic Projects\VBU_Calculator\VBU_Calculator\obj\Debug\VBU_Calculator.Resources.resources
+C:\Users\Kevin\Documents\Visual Basic Projects\VBU_Calculator\VBU_Calculator\obj\Debug\VBU_Calculator.vbproj.GenerateResource.cache
+C:\Users\Kevin\Documents\Visual Basic Projects\VBU_Calculator\VBU_Calculator\obj\Debug\VBU_Calculator.exe
+C:\Users\Kevin\Documents\Visual Basic Projects\VBU_Calculator\VBU_Calculator\obj\Debug\VBU_Calculator.xml
+C:\Users\Kevin\Documents\Visual Basic Projects\VBU_Calculator\VBU_Calculator\obj\Debug\VBU_Calculator.pdb
